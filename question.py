@@ -1,4 +1,5 @@
 import random
+from termcolor import colored
 
 class Question:
 
@@ -22,17 +23,22 @@ class Question:
             pos_answers.append(i)
         random.shuffle(pos_answers)
         i = 1
-        print('\n' + self.question)
+        txt = '\n' + self.question + '\n'
         for ans in pos_answers:
-            print('({}) {}'.format(i, ans))
+            txt += '({}) {}\n'.format(i, ans)
             i += 1
+        print(txt, end='')
         answer = ''
         while answer not in ('1', '2', '3', '4'):
             answer = input('Please, type the answer number [1-4]: ')
 
         if pos_answers[int(answer)-1] == self.correct_answer:
-            print('\n|========= CORRECT =========|')
+            print(colored('\n|========= CORRECT =========|', 'green'))
             self.your_answer = 'CORRECT'
         else:
-            print('\n|========= INCORRECT =========|')
+            print(colored('\n|========= INCORRECT =========|', 'red'))
             self.your_answer = 'INCORRECT'
+            while answer not in ('y', 'n', 'Y', 'N'):
+                answer = input('\nDo you want to see the correct one?[y/n]: ')
+            if answer in  ('y', 'Y'):
+                print(self.correct_answer)
