@@ -1,7 +1,8 @@
 from question import Question
 import random
+import sys
 
-path = 'questions_1.1.txt'
+path = sys.argv[1]
 
 with open(path, 'r') as fd:
     content = fd.read()
@@ -17,7 +18,9 @@ final = [content[i * n:(i + 1) * n] for i in range((len(content) + n - 1) // n )
 question_list = []
 i = 1
 for item in final:
+    #print('Parsing question {}'.format(i))
     question_list.append( Question( i, item[0], item[1], (item[2], item[3], item[4])) )
+    i+=1
 
 random.shuffle(question_list)
 

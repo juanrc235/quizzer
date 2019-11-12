@@ -1,0 +1,177 @@
+Unit 1.2
+
+In Scrum, When it is necessary to make an adaptive planning?
+When there are causes that make estimates and schedules fail
+When the scrum manager decides it
+When the product owner make it necessary
+Never, it is not possible
+
+In Scrum, what type of project is optimal, if the organization is rigid and it uses formal methods?
+An estable project type
+A changing one
+An agile methodology project
+An agile and estable method
+
+Why the Agile Methodologies are simply better?
+They are neither better nor worse than those based on PUD, they are simply more useful in different types of projects
+Because in a agile one the time constraints are smaller
+It is not better, the one based on PDU are better
+The cascade model is always better
+
+What of the following methodologies are agile?
+ASD, XP and AUP
+ASD, XD and PSU
+PUD and Scrum
+SCRUM and ASD
+
+What represents the needs of the users in the Agile Methodology?
+User Stories
+Uses Cases
+Task
+Requisites
+
+How the quality of  a user story is measured?
+INET
+VEST
+ETS
+None of the others
+
+What are the main characteristics of UDP?
+Architecture centric, iterative, incremental and use case driven
+Architecture centric, iterative and use case driven
+Architecture centric, incremental and use case driven
+Architecture centric, iterative, incremental and user stories driven
+
+Which is the milestone of inception?
+Establish the life cycle goals of the project
+Make a product delivery for the customer
+Make a skeleton of the project
+Elaborate the UML diagrams
+
+According to the manifesto for agile software development, which of the following sentences is false?
+There is not a plan
+Individuals and iterations over processes and tools
+Is more important the working software than comprehensive documentation
+The team cannot modify the methodology without justification
+
+Which of the following sentences is false regarding the Daily Scrum Meeting?
+Everybody can speak
+Everybody is invited
+It is not aimed at solving problems
+It lasts less than 15 minutes
+
+Which of the following sentences is not a meeting in Scrum?
+Developer meeting
+Sprint planning meeting
+Daily scrum meeting
+Sprint review meeting
+
+Which is the relationship between the characteristics of UDP?
+Software architecture provides the structure which guide iterations, whereas use case define goals and direct the work in every iteration
+Software architecture provides development methodologies to implement use cases
+Each use case is develop in an iteration
+Use cases can only be developed in an iterative and incremental way
+
+Which is the correct nomenclature of the semantic version in a project?
+Major, minor, dispatch
+Dispatch, minor, major
+Version, release, fix
+Movement, version, fix
+
+Which is not a main question needed to be resolved then planning a project?
+Where will the project be develop?
+How long will the project last?
+When will the project be completed?
+How much will the project cost?
+
+Which is a wrong statement related with user’s stories?
+It’s not a user’s need
+It’s not a task
+It’s not a requirements specification
+It’s not a use case
+
+Which is the wrong statement about the inception phase?
+Errors will be fixed, and developers will work on fixing problems to incorporate the enhancements into the final version
+Most of the use cases are fully detailed, and system architecture is designed
+In this phase, the most critical use cases are developed
+By the end of this stage, it is possible to plan the activities and estimate the use of required resources, to finish the project
+
+Which is an agile planning and estimation technique?
+Planning poker
+Planning bus stop
+Planning black jack
+Texas Holdem Planning
+
+What promotes the “Planning Poker” technique?
+The participation of all attendees
+Gambling
+The absence of all attendees
+Nothing.
+
+Which is the main function of the Scrum Master?
+All of them are main functions
+Assuring the scrum values and practices
+Represents the project management
+Enables cooperation and communication between the roles and functionalities
+
+Which is the role of the product owner in Scrum?
+Is responsible for assuring the ROI
+Merely testimonial
+Rejects work results
+Decides how to implement the project
+
+What is the purpose of the daily scrum meeting?
+Talk about what the team did, what is doing and how is the all running
+Solve problems
+Take a coffee
+Plan future meetings during the day
+
+What is the purpose of the burn-up graphic?
+Monitor the status of the project
+Keep the team on fire
+Estimate costs
+Put pressure on the team
+
+Which element is not part of the burn down graphic?
+Money left
+Completed tasks
+Remaining effort
+Remaining tasks
+
+Which is not a scrum pillar?
+Coupling
+Transparency
+Inspection
+Review
+
+Which is the duration of a sprint in a scrum-based project?
+Between 1 and 4 weeks
+Between 1 and 4 days
+Between 2 and 3 months
+Between 6 and 12 months
+
+Which of these is not a misinterpretation of the agile manifesto?
+Working software is the primary measure of progress
+Total absence of documentation
+Total absence of planning
+The team can modify the methodology without justification
+
+Which is not a part of the history of a user
+Commitment
+Description
+Conversation
+Agreement
+
+Which of these is not a Estimation unit
+Relative time
+Story point
+Ideal time
+Real time
+
+
+
+What is the product backlog?
+A list of user stories that will be incorporated into the software product seeking to increase the value of the product from the point of view of the business
+A list of requirements that the product owner creates to help designers to reach a better solution
+A list of user stories that the developers creates to documentate the project and make it easier to follow the creation of the software product
+A list of use cases

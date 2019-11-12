@@ -1,0 +1,121 @@
+Unit 2.1
+
+1. Which is not a characteristic of quality?
+It’s absolute
+It has some restrictions
+It’s linked to commitments
+It’s multidimensional
+
+2. Which of the parts in the semantic versioning is related with quality assurance?
+Patch
+Major
+Minor
+Absolute version
+
+3. Which is the slogan of quality?
+“Do well good things”
+”Do things as fast as you can”
+”Do all the things”
+”Do only complex things”
+
+4. What of the following assertions about quality is false?
+A person can only have only role when talking about “quality”
+Every quality characteristic should have a value and a measurement unit
+For every quality characteristic, a range of acceptable values should be provided
+“Fitness for use” is an expression that matches with quality
+
+5. What is quality control?
+A part of the Quality Management aimed at meeting the quality requirement.
+A set of security tests that the product must pass.
+Part of the Quality Management aimed at assuring that the product will meet quality requirements.
+part of the Quality Management aimed at ensuring trustworthiness upon the meeting of quality requirements.
+
+6. Which of these is not a portability quality characteristic?
+Reusability
+Portability
+Capability to be installed
+Capability to be relaced
+
+7.  Protection from user error is a characteristic of which quality model?
+Usage capacity
+Performance efficiency
+ObsMantenibility
+Portability
+
+8. The unfulfillment of a requirement associated to a pretended use is:
+Defect
+Disposal
+Reparation
+Correction
+
+9.  What is niche market?
+A niche in the market is a specific area of marketing which has its own particular requirements, customers, and products.
+Is a philosopher
+Niche marketing is the practice of joining the market into general areas for which general products are made. A niche market is one of these general area
+It doesn’t exist
+
+10. Is quality the same for different people?
+All answers are correct
+It depends of their personal situation
+It depends of their needs
+Yes
+
+11. What security quality characteristics define ISO 2500?
+All answers are correct
+Confidentiality
+Integrity
+Responsibility
+
+12. What are the parts of the continuous improvement cycle?
+Plan, Do, Check, Act
+Observe, Do, Plan, Act
+Plan, Act
+Observe, Plan
+
+13. Which is not a characteristic of reliability in ISO 25010?
+Good quality
+Maturity
+Availability
+Fault tolerance
+
+14. What are the characteristic of compatibility in ISO 25010?
+Coexistence and interoperability
+Coexistence, interoperability and versioning
+Coexistence
+Interoperability
+
+15. Where can companies be certified in product quality?
+AENOR
+ISO 25010
+AQC Labs
+ISO 330000
+
+16. In the sentence “Do well good things”, what do you do “well”?
+Processes
+Products
+Software
+None of the others
+
+17. Which of the following sentences is NOT a definition of quality?
+As quality is subjective, we cannnot give any possible definition of quality
+Fitness for use
+Zero defects
+Extent to which a set of inherent characteristics meet requirement
+
+18. In the sentence “Do well good things”, what is referred to “things”?
+Products
+Processes
+Products and processes
+None of the others
+
+19. What is a quality model?
+A set of quality characteristics
+A unique criterium to judge the quality
+A taken action to fix a detected non-conformity
+All of them are correct
+
+20. If we want to have a reference model of quality in our company, what we have to do?
+Looking for the family of quality models of ISO 2500n
+As the quality is subjective we don’t have to do anything
+Doing only testing
+Having not restrictions

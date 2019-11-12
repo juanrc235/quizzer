@@ -1,0 +1,121 @@
+Unit 2.2
+
+1. What does the word “maturity” mean (in the ISO subject context)?
+Doing things better and better
+Doing well good things
+Doing old things
+Doing things as adults do
+
+2. Mark the true statement.
+To reach a level of maturity you have to reach the level of capacity of each of the processes associated with the level of maturity
+To reach a  a level of maturity it’s enough to reach the level of capacity of only one process associated with the level of maturity
+There are no restrictions to reach a level of maturity in a company
+The level of maturity is not related with the organization of the company
+
+3. According to life cycle model management process belongs to level of maturity:
+2
+1
+3
+4
+
+4. Which is not a principal of a goal of processes improvement?
+Make a final process at the beginning
+Measure the process
+Control the process
+Improve the process
+
+5. According to MMIS 2.0 AENOR-AQCLab Model,  which process is in the maturity level one?
+Implementation process
+Validation process
+Verification Process
+Integration process
+
+6. A process is predictable when…?
+The process is executed under the preestablished limits.
+The process is defined according to a standard model.
+The process is Managed and the work product are established, controlled and maintained.
+The process is not well implemented, or it fails when it is executed.
+
+7.  The process reference model...
+Provides with an schema with good practices for the various processes.
+Allows to judge and decide on the capability of the process and the maturity of the organizations.
+Establishes mechanisms to make processes that will be more capable than they use to be.
+Generates a document with lots of links to important documents.
+
+8. To achieve adequate levels of quality, the process cannot:
+Be changed
+Produce the expected results
+Ground on a sound definition
+Be improved according to the business goals
+
+9. The scope of the maturity assessment is
+The overall organization
+The financial department
+The marketing department
+All departments except the bosses
+
+10. Achieving a level of maturity means...
+Fulfilling all process attributes of the processes of that level of maturity.
+Pay to AENOR
+Be proactive in the most exciting parts, actually, coding
+Being able to contract old people, the older, the higher the maturity
+
+11. How many maturity levels are there?
+5
+4
+3
+2
+
+12.  To control a process is necessary to...
+Execute, measure, improve and define it
+Define and execute it
+Execute it
+Measure and execute it
+
+13.  What enable the  MMIS 2.0 AENOR-AQCLab Model?
+The evaluation and certification of software development organizations through organizational maturity levels.
+The good practices
+The evaluation and certification of software development organizations through power levels.
+the evaluation of software development organizations through several steps.
+
+14.  What is the author of the CMMI?
+The previously called SEI
+ISO/IEC
+MMIS V2.0
+The CMMIOS
+
+15. What the ISO 33000 allows?
+Understand the current state of the own processes
+Understand the old state of the own processes
+Understand the future state of the own processes
+None is correct
+
+16.  What the ISO 33000 allows?
+Determine de fitness of the own processes or the some other’s organization against a set of specific requirements
+Determine de fitness of the some other’s organization  processes against a set of specific requirements
+None is correct
+Determine de fitness of the own processes
+
+17. What can be a intuitive definition of maturity in the context of Software Engineering?
+It consists in doing things better and better
+The number of years that you have been working
+Doing things each time differently
+None is correct
+
+18. What means if a company have a maturity level of 2?
+It means that every process has a level of capability of 2 or more
+It means that every of their workers have been hired for more than 2 years
+The levels of maturity are measure by letters (A, B, C...) not numbers
+It doesn’t mean anything
+
+19. To achieve adequate levels of quality it is necessary that...
+All of them are correct
+The process produces the expected results
+The process is grounded on a sound definition
+The process can be improved according to the business goals
+
+20. What for we can use the framework CMMI?
+All of them are correct
+Project management
+Process management
+Support
