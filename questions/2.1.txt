@@ -34,12 +34,12 @@ Which of these is not a portability quality characteristic?
 Reusability
 Portability
 Capability to be installed
-Capability to be relaced
+Capability to be replaced
 
 Protection from user error is a characteristic of which quality model?
 Usage capacity
 Performance efficiency
-ObsMantenibility
+Mantenibility
 Portability
 
 The unfulfillment of a requirement associated to a pretended use is:

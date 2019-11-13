@@ -168,10 +168,8 @@ Story point
 Ideal time
 Real time
 
-
-
 What is the product backlog?
 A list of user stories that will be incorporated into the software product seeking to increase the value of the product from the point of view of the business
 A list of requirements that the product owner creates to help designers to reach a better solution
-A list of user stories that the developers creates to documentate the project and make it easier to follow the creation of the software product
+A list of user stories that the developers creates to do the documentation the project and make it easier to follow the creation of the software product
 A list of use cases

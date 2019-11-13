@@ -1,5 +1,4 @@
 import random
-from termcolor import colored
 
 class Question:
 
@@ -33,10 +32,10 @@ class Question:
             answer = input('Please, type the answer number [1-4]: ')
 
         if pos_answers[int(answer)-1] == self.correct_answer:
-            print(colored('\n|========= CORRECT =========|', 'green'))
+            print('\n|========= CORRECT =========|')
             self.your_answer = 'CORRECT'
         else:
-            print(colored('\n|========= INCORRECT =========|', 'red'))
+            print('\n|========= INCORRECT =========|')
             self.your_answer = 'INCORRECT'
             while answer not in ('y', 'n', 'Y', 'N'):
                 answer = input('\nDo you want to see the correct one?[y/n]: ')

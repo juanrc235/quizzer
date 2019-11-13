@@ -9,14 +9,14 @@ paths = ['questions/1.1.txt',
          'questions/2.2.txt']
 
 def create_unit(path):
-    with open(path, 'r') as fd:
+    with open(path, 'r', encoding='utf-8') as fd:
         content = fd.read()
 
     content = content.split('\n')
     content = [item for item in content if item != '']
 
     unit = content.pop(0)
-
+    print(unit)
     n = 5
     final = [content[i * n:(i + 1) * n] for i in range((len(content) + n - 1) // n )]
 
@@ -51,7 +51,7 @@ print('\nWELCOME TO QUIZZER. YOUR PLACE IF YOU LOVE ISO\nPress [Ctrl + c] to exi
 selection = ''
 while selection not in ('1.1', '1.2', '2.1', '2.2'):
     try:
-        selection = input('Select the Unit [1.1, 1.2, 2.1, 2.1]: ')
+        selection = input('Select the Unit [1.1, 1.2, 2.1, 2.2]: ')
     except KeyboardInterrupt:
         print('\nBye, Bye')
         sys.exit(0)
