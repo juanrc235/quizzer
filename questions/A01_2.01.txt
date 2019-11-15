@@ -1,0 +1,121 @@
+A01 --> UNIT 2.01
+
+In pareto’s law: __% of the features represent __% of the usage.Which are the percentages of usage?
+20,80
+30,70
+10,90
+50,50
+
+Which of this definitions is closer to the concept of quality we are using?
+Fitness for use
+Lots of technical specifications
+Having more features
+Being the most powerful device/program
+
+What does the good enough/low cost paradigm consist of?
+It is a balance between the manufacturer needing to have the best quality possible but not enough to inflate the price and the client wanting the cheaper price possible
+Consist on the manufacturer searching for the smaller quality to make the product as cheap as possible
+It is a term that means that the client will always buy the cheaper product possible
+That term does not exist
+
+What does the term SWOT mean?
+Strengths, Weaknesses, Opportunities, Threats
+Support Weaknesses, Offensive against Threats
+Same Weekend, Over Too
+That term does not exist
+
+What are the characteristics a product need to have to fulfill the ISO 25010: quality model for software product?
+Functional adequacy, Reliability, Security, Compatibility, Portability, Maintainability, Performance efficiency, Usage capacity
+Functional adequacy, Reliability, Security, Compatibility, Portability, Malleability, Performance efficiency, Usage capacity
+Functional requirement, Reliability, Security, Compatibility, Portability, Maintainability, Performance efficiency, Usage capacity
+Functional adequacy, Security, Compatibility, Portability, Maintainability, Performance efficiency, Usage capacity
+
+What are the most characteristics of the concept of quality?
+Multi-dimensional,it is not absolute,has some restriction,linked to commitments and quality characteristics are not independent.
+The concept of quality can have characteristics because of it definition.
+Multi-dimensional,it is not absolute,has some restriction and linked to commitments .
+Depend of the projects the other answers are all correct.
+
+Whats is one of the relation between cost and quality?
+Less cost, more quality.
+More cost, more quality.
+Less cost, and less quality.
+More cost, less quality.
+
+Choose the  one that is not a concept related with quality.
+Quality department.
+Quality policy.
+Quality Management system.
+Quality plan.
+
+which is the criterium to judge the quality?	
+Quality characteristic.
+Quality plan.
+Quality policy.
+Quality management system.
+
+in the quality management process, how is divided the continuous improvement cycle?
+Plan, do, check, act.
+Plan, do, check.
+There is no cycle in quality.
+Plan, do, act, check,defect.
+
+Which of this concepts are related to QUALITY?
+Defect
+Cheap
+Expensive
+Difficult
+
+What is the correct definition of ‘Quality Characteristic’?
+Criterium to judge the quality.
+Set of characteristics of a software product.
+Things that define a product.
+None of above.
+
+What defines ‘Functional Adequacy’?
+Functional Completeness, Functional Correctness and Functional Adequacy.
+Functional Completeness and Functional Correctness, only.
+Functional Completeness and Functional Adequacy, only.
+Functional Correctness and Functional Adequacy, only.
+
+Which of this concepts are not related to Quality Management?
+Quality Organization.
+Quality Control.
+Quality Assurance.
+Quality Improvement.
+
+Which are the first and last stages in the Quality Assessment?
+First: 1.- Establish assessment requirement, Last: 5.- End Assessment.
+First: 1.- Specify Assessment , Last: 5.- End Assessment.
+First: 1.- Specify Assessment , Last: 5.- Design Assessment.
+First: 1.- Establish assessment requirement, Last: 5.- Design Assessment.
+
+What characteristics define Reliability in ISO 25010?
+Maturity, Availability, Fault tolerance, Recovery Capacity.
+Maturity, Availability and Recovery Capacity.
+Availability and Recovery Capacity, only.
+None of above.
+
+Which of this characteristics is not related to Security in Quality Model for Software Product?
+Repudiation.
+Responsibility.
+Integrity.
+Authenticity.
+
+Talking about the Compatibility in ISO 25010, which are the main characteristics of it?
+Coexistence and Interoperability.
+Coexistence and Confidentiality.
+Interoperability and Confidentiality.
+Compatibility is not a characteristic of ISO 25010.
+
+How many stages have the Certification of Quality Software Product?
+6.
+8.
+5.
+7.
+
+Which are the main characteristics of Performance Efficiency in ISO 25010?
+Temporal behavior and Resource Usage.
+Temporal Behavior.
+Resource Usage.
+None of above.

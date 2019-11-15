@@ -1,0 +1,97 @@
+A03 --> Unit 3.1
+
+What is the purpose of Configuration Status Accounting?
+The purpose records, retrieves, and reports critical information about assets under configuration control to management and the project team.
+The purpose of configuration auditing is to objectively assess the integrity of the product both from a functional perspective and from a physical perspective.
+The purpose is to manage the potential interfacing effects that hardware, system software, and support software.
+The purpose is to manage the incorporation of items developed outside the project environment by third parties into the project CIs.
+
+Which is not a life cycle discipline?
+Testing
+Operation and Maintenance
+Integration
+Verification
+
+Which is not a goal of the configuration management?
+It only englobes the task of talking to the stakeholders.
+Register and report every change, and the state of the implementation.
+Identify and document the functional and physical features of every product, component, result, or service.
+Manage any change of the features of every product, component, result, or service.
+
+Which is the definition of configuration control board?
+A group of people responsible for evaluating and approving or disapproving proposed changes to configuration items, and for ensuring implementation of approved changes.
+An individual item to be controlled that is a constituent (part) of a larger configuration item, such as a reference model, hardware prototype or software build.
+A formally approved version of a configuration item, regardless of media, formally designated and fixed at a specific time during the configuration item's life cycle.
+A collection of new and/or changed configuration items that are tested and introduced into the live environment together.
+
+What is the purpose of configuration management planning?
+Is to produce and communicate effective and workable CM plans (CMPs)
+Is to make happy the boss
+Is to produce commit plans
+All answers are correct
+
+What is a build?
+An operational version of a system or component that incorporates a specified subset of the capabilities that the final product will provide.
+Some experimental software
+An executable piece of software
+The first and the third answers are correct
+
+What is a release plan?
+A plan that describes what portions of system functionality will be implemented in which releases and the rationale for each release.
+Is a plan for relealising the developers of making more diagrams
+Is a plan for releasing the configuration managment plan
+Anyone of the answers
+
+What is not a release managment activity?
+Delineate project requirements
+Define release policy
+Define release planning
+Define release contents
+
+What do the configuration management establish and protect?
+The integrity of a product
+The quality of a product
+The usability of a product
+The name of a product
+
+What is NOT part of a CM plan? Juan
+The RADIT
+Introduction
+Project management
+Policies, directives and procedures
+
+In the configuration auditing, what is NOT an activity?
+Perform software configuration audits
+Perform functional configuration audits
+Perform physical configuration audits
+Perform baseline configuration audit
+
+Which is NOT an example of Configuration Elements?
+CMMI
+Management plan
+Requirement
+Design Specification
+
+What is one of the goal of CM?
+Identify and document the functional and physical features of every product, component, result, or service.
+RADDIT
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Dialogue carried out by the team and the customer or user to clarify details and doubts that may arise about the history of user.
+
+What is NOT true about Configuration Management?
+The user documentation is not a configuration element of the configuration management.
+CM establishes and protect the integrity of a product or of its various components through their useful life.
+We can use it to keep track of the changes.
+It is required to formally identify every change and then trace the state of every change from its requesting to its inclusion.
+
+What is a configuration item?
+Aggregation of work products that is designated for configuration management and treated as a single entity in the configuration management process.
+Technical and organizational activities comprising configuration identification, control, status accounting, and auditing.
+An individual item to be controlled that is a constituent (part) of a larger configuration item, such as a reference model, hardware prototype or software build.
+Any person(s) or group designated to be responsible for assuring that CM activities are planned and carried out.
+
+What’s the differences between a build and a release?
+A release is a specific build labeled with a specific name and propourse.
+A build is a specific release labeled with a specific name and propourse.
+The target of every build is the final user.
+Nothing, they are the same.
