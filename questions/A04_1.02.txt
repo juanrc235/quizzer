@@ -1,0 +1,183 @@
+A04  ----> UNIT 1.02
+
+Which of these is not a characteristic of the Unified Development Process?
+Agile methodology.
+Architecture centric.
+Iterative and incremental.
+Use case driven.
+
+Which of these is not a phase of a cycle in Unified Development Process?
+Maintenance.
+Inception.
+Elaboration.
+Construction.
+
+Which of these is not an Agile Development Methodology?
+Scrum.
+XP.
+LSD.
+OpenUP.
+
+We say that UDP is paramount to know what users needs to develop Software Systems that best fit to their needs because:
+It’s use case driven.
+We need to take risks.
+It’s architecture centric.
+It’s collaborative.
+
+Which is one of the characteristics of a User Stories?
+Value.
+Date.
+Actor.
+Director.
+
+Which are the main pillars of Scrum?
+Transparency, Inspection, Review.
+Transparency, Randomness, Operative.
+Inspection, Concurrency, Review.
+Transportation, Concurrency, Inspection.
+
+Which one defines how the system and its components works?
+Functional requirement.
+Non-functional requirement.
+Working requirement.
+Business requirement.
+
+Which of these is not a role in Scrum?
+Executive Director.
+Product Owner.
+Scrum Master.
+Team Work.
+
+When we talk about a list of User Stories that will be incorporated in the software product,
+we talk about…
+Product Backlog.
+Scrum.
+Unified Development Process.
+Sprint.
+
+When things are coming out according to an initial planning that is taken as an indication, but never as a guide, we say we are working in a:
+Adaptative way.
+Predictable way.
+Changing way.
+Adaptable way.
+
+Which of these statements is valid for an agile methodology?
+Working software over comprehensive documentation.
+Process and tools over individuals and interactions.
+Contract negotiation over customer collaboration.
+Following a plan over responding to change.
+
+In a flexible organization with changing projects is recommended to use:
+Agile methods.
+Optimized agile methods.
+Formal methods.
+Iterative-Formals.
+
+In the final step of “Planning Poker”, if we don't have any final result in a consensus way, we have to…
+The people will vote again.
+All the results are in consensus whatever the value of the result.
+The Scrum Master will be involved in the planning.
+The most efficient one will be developed.
+
+Which is the widest use agile methodology?
+Scrum.
+Scrum / XP hybrid.
+Custom hybrid.
+Kanban.
+
+Which of these statements is false for an agile methodology?
+The customer will be the head of the project, directing how the software must be done.
+Documentation does not have to be predictive.
+The team working on the software must follow the chosen methodology.
+The project is divided in tasks of short duration and minimal planning.
+
+What are User Stories?
+The representation of the user needs in agile methodologies.
+A type of a use case diagram.
+The representation of the user needs in classic methodologies.
+A requirement specification.
+
+Which is not part of the history of a user?
+Modelling.
+Description.
+Agreement.
+Conversation.
+
+Which of these is a characteristic of Scrum?
+A prototype will be created as a result of a sprint.
+It is an agile development methodology.
+The projects are made in several sprints of long duration.
+The client selects the User Stories that will be developed.
+
+Which of these could be a misinterpretation of the agile manifesto?
+Total absence of documentation.
+Planning does not have to be predictive.
+The client has a particular role within the work team.
+The team must follow the chosen methodology.
+
+What is the Burn-up graphic used by the product owner for?
+To monitor the status of the project.
+To evaluate the costs of the project.
+To see the quantity of work of each worker in a project.
+To compare the salaries of the collaborators of a project.
+
+What is the role of a product owner in Scrum?
+Decides on the dates of publication and its contents.
+Represents the project management.
+Facilitates the acquisition of the projects.
+All answers are correct.
+
+What is the role of the ScrumMaster?
+All answers are correct.
+Maintains and assures the Scrum values and practices.
+Makes the team keeps totally functional and productive.
+Enables the cooperation and communication between the roles and functionalities.
+
+Which type of meeting does not exist in Scrum?
+Sprint Development meetings.
+Sprint Review Meetings.
+Sprint Retrospective Meetings.
+Sprint Planning Meetings.
+
+It covers the time slot in which the final product becomes into the beta version, we talk
+about…
+Transition Phase.
+Construction Phase.
+Elaboration Phase.
+Inception Phase.
+
+Which of these meetings is held after every sprint?
+Sprint Retrospective Meetings.
+Sprint Development meetings.
+Sprint Review Meetings.
+Daily Scrum Meetings.
+
+Which of these does not participate in Sprint Retrospective Meetings?
+Final user.
+Product Owner.
+Team.
+ScrumMaster.
+
+The nomenclature of the version when a product is developed is…
+Mayor, Minor, Dispatch.
+Minor, Mayor, Dispatch.
+Dispatch, Mayor, Minor.
+Mayor, Dispatch, Minor.
+
+In each phase of a UDP methodology:
+We carry out all the stages of a software life cycle, but in each of them we emphasize in a different goal.
+We reach only a life cycle phase. When we go through the UDP methodology phases, we reach more advanced phases.
+We take into account different use cases.
+We need different strategies in the development of the software.
+
+What is not a characteristic of agile methodologies?
+Not having much documentation.
+The team cannot modify the methodology or the life cycle to adapt.
+It follows an adaptive way.
+It takes into account a continuous attention to technical excellence and good design.
+
+What is the perfect type of methodology in a very rigid organization, but in which the project can change?
+Iterative-formal methods.
+Formal methods.
+Optimized agile methods.
+Agile methods.

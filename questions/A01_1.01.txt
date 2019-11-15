@@ -1,0 +1,122 @@
+A01 --> 1.01
+
+What is the main aim of our profession?
+Create reliable and cost effective software
+Gain money
+Create reliable software
+Create cost effective software
+	
+What is the best way to develop software?
+Following the schema requirements-design-coding-testing-working software
+You can develop software the way you want
+SCRUM is the best way
+Depending of the complexity of the software you can skip the requirements-design-coding-testing part
+	
+How should you work in a professional developing team
+Assigning functionalities of the program to each coder of the team and dividing them in packets
+Letting one code and others do the report and design
+Answer 1 and 2 are correct
+Coding the software all together at the same time so everyone understands the code
+
+	
+What is the life cycle of a software?
+It's a detailed plan describing how to develop, maintain and replace specific software
+It describes the time a software will be going to be used
+It's a plan created by the company that develops the software describing the process of which the software should be maintained and updated
+The life cycle of a project starts with the requirements of the software fase and ends when the software is fully working
+
+What is the most probable way that a company works developing software?
+Having as many running processes(Produce Software) as customers they have
+Focusing only on the demands of the client that pays more
+Looking for ideas to develop software and sell it
+All are wrong
+	
+Which one is not a Life cycle model
+CMMI
+Waterfall
+Incremental Model
+Spiral model
+
+Which one is not a developing methodology
+All of them are
+Métrica v3
+UPD
+SCRUM
+	
+What is not true about the cascade model
+It's very flexible
+A stage cannot begin until the stage cannot begin until the previous one has not finished
+It is very useful in software migration projects from legacy environments
+Also called sequential
+	
+In what can be split a process
+Tasks
+Procedures
+Products
+Projects
+
+What is a desirable characteristic for a methodology
+All of them 
+Support to software reuse
+Easy training
+Total coverage of the development cycle
+	
+Which one of these methodologies is process oriented
+Gane y Sarson Methodology (STRDM/SSDM)
+Merise Methodology 
+SSADM Methodology 
+Métrica Methodology
+	
+What is the false statement about Spiral model cycles
+It`s recommended for low risk projects
+It tries to improve the classic life cycle and prototypes
+It enable the accommodation of other models
+It drops undesired choices from the very beginning
+
+What is the difference between methodology and method
+A methodology can be understood as a set of methods
+A method contains various methodologies
+Method is a type of methodology
+All of the are correct
+
+what is the definition of Development Methodologies?
+Set of philosophies, stages, procedures, rules, techniques, tools, documentation, and training concern that are to be used by Information Systems Developers.
+A software development methodologies is the process of dividing software development work into distinct phases to improve design.
+Most modern development methodologies can be vaguely described as agile.
+Is the techniques, tools, documentation, and training concern that are to be used by Information Systems Developers
+
+Which is the correct order
+A process can be split in tasks and for each task there is a procedure
+A process can be split in tasks and for each task there is multiple procedures
+A process contains multiple procedures, and for each procedure there is a task
+A task contains multiple processes, and for each process there is a procedure 
+
+Which is the reason prototyping is not the same as the spiral model?
+Prototyping implies developing a complete system to try new functionalities
+They are the same
+The spiral model does not exist
+The spiral model does not analyze the risks until the process is complete
+
+what is the most characteristic of the cascade model?
+A stage cannot begin until the stage cannot begin until the previous one has not finished.
+If any stage have to be remake, you can return to the previous stage and remake that the problem resolve.
+The system is being developed in small increments .
+By the end of each completed cycle, risks are assessed before going into the next one.
+	
+Which is the reason the ISO,IEEE, etc were created?
+The need for standardization in order of facilitate the work
+Laziness
+To facilitate the work of the commercial graphics card
+Because IBM had too much control on the industry and imposed them on  everyone
+
+What elements are  not associated with Development Methodologies?
+Stakeholder
+task
+techniques
+Processes
+
+What is the meaning of Stakeholder?
+Individual or organization having a right, share, claim or interest in a system or in its possession of characteristics that meet their needs and expectations.
+Product used as input or generated as a output.
+Stated way in which activities must be follower.
+Set of cohesive tasks of a process.

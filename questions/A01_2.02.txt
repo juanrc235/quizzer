@@ -1,0 +1,120 @@
+A01 --> UNIT 2.02
+
+How many Quality Principles are?
+6.
+5.
+7.
+10.
+
+What is the Intuitive Definition of the concept of Maturity?
+It consists in doing things better and better.
+It consists in do well the bad things.
+It consists in do well things in less time.
+None of above.
+
+Which are the principles of the Goals of Process Improvements?
+Define, Measure, Control and Improve the process.
+Measure, Control and Improve the process.
+Define, Control and Improve the process.
+Define and Improve the process, only.
+
+Which are the Characteristics of Framework CMMI?
+Project Management, Process Management and Support.
+Project Management and Process Management.
+Process Management and Support.
+Project Management and Support.
+
+What is the meaning of CMMI?
+Capability Maturity Model Integration.
+Capacity Maturity Model Integration.
+Capability Maturity Management Integration.
+Capacity Management Model Integration.
+
+If a customer does not demand a quality product,...
+He or she will probably not get one.
+He or she will get one.
+The company will ask him or her
+The company will always deliver quality products
+
+Since a test removes only a fraction of a product’s defects,....
+to get a quality product out of a test you must put a quality product into the testto get a quality product you must perform various test on it
+the test is not a valid option for quality testing 
+to get a quality product tests must be performed for every module of the software
+
+Which one of the next definitions of capability is the most suitable for software engineering
+Aptitude, talent, quality that has someone for the proper exercise of something.
+Property of a thing to be able to contain some other inside.
+Opportunity, place or means to execute something.
+Volume. 
+
+Order the level of maturity from highest to lowest
+Optimized, Predictable, Established, Managed, Basic and Immature.
+Optimized, Predictable, Managed, Established, Basic and Immature.
+Optimized, Established, Predictable, Managed, Basic and Immature.
+Established, Optimized, Predictable, Managed, Basic and Immature.
+
+What tool is used to track the work of every Sprint
+Burn up graphics
+Sprint retrospective meetings
+Reviews
+None of them 
+
+Which is the relationship  between the level of capacity and the level of maturity?
+In order to achieve a high level of maturity you need to achieve a high level of capacity on each of the processes associated
+Level of maturity and level of capacity are the same
+As capacity is related with processes on an individual level and maturity overall they are not related
+They are not related
+
+Which of the following does not indicate an adequate level of quality?
+The process presents lots of bugs
+The process produces the expected results
+The process is grounded on a sound definition
+The process can be improved according to the business goals 
+
+Which is the function of the Process Reference Model?
+It provides with an schema with good practices for the various processes
+It allows to judge and decide on the capability of the process and the maturity of the organizations
+It establishes mechanisms to make processes will be more capable than they use to be.
+None of the above
+
+What is the standard “ISO 15504” useful for?
+The assessment model
+The Process reference model
+To get the specific goals
+To get the generic goals
+
+Which of the following is less than optimal for the MMIS?
+More investment of money, time and resources
+Selection of processes appropriate for small organizations
+Less "bureaucracy" and stiffness
+Oriented to SMEs (Small and Medium Enterprises) and small development groups
+
+Which of the following does not belong to the level of maturity 2?
+Process of Management of Human Resources
+Process of Management of the Configuration
+Process of supply
+Process of definitions of necessities and requirements of the stakeholdersç
+
+Which of the following level of maturity precedes the rest of them?
+Managed
+Optimizing
+Established
+Predictable
+
+Which of the following is not a quality principle?
+The quality of the test is determined by the quality of the product
+The quality of a product is determined by the quality of the process used to develop it
+To consistently produce quality products, the developers must manage the quality of their work.
+If a customer does not demand a quality product, he or she will probably not get one.
+
+Which is the name given to the level of maturity 1?
+Initial
+Managed
+Defined
+Optimizing
+
+In a meeting in SCRUM everyone should ask...
+3 questions: What did you do yesterday?, What will you do today?, Is everything running ok?
+2 questions :What will you do today?, Is everything running ok?
+4 questions: What did you do yesterday?, What will you do today?,What should be done by now, Is everything running ok?
+1 question: What will you do today?

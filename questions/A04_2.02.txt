@@ -1,0 +1,129 @@
+A04 --> UNIT 02.02
+
+Goals of Process Improvements are grounded on the following four principles:
+Define the process, Measure the process, Control the process,Improve the process.
+Define the process, Measure the process, Control the process, Maintain the process.
+Measure the process, Define the process, Establish the process, Improve the process.
+Measure the process, Manufacture the process, Establish the process, Improve the process.
+
+Which is the concept of capability?
+The Organization gets a score at a process level.
+The scope of the assessment is the overall organization.
+Collection of used components to build models, training material, and evaluation material in area of interest of customers.
+Expected components from del model that describe an activity considered as important to raise the specific goal.
+
+To control and manage the process, it is required to make available the following artefacts
+to the company:
+Process Model Reference, Assessment Model and Process Improvement Model.
+Process Model Reference, Assessment Model and Capability.
+Process Model Reference, Assessment Model and Maturity.
+CMMI DEV, CMMI ACQ, CMMI SVC.
+
+To achieve adequate levels of quality, it is necessary:
+That the process produces the expected results.
+To reach a level of maturity you have to reach the level of capacity of each of the processes associated.
+Achieving a level of maturity means fulfilling all process attributes of the processes of that level of maturity.
+To understand the current state of the own processes.
+
+Which is not a characteristic of ISO 33000?
+Assessment and improvement model of processes defined by AENOR for the Ibero American software industry.
+New framework for process assessment.
+Supersedes and extends ISO/IEC 15504.
+Determine de fitness of the own processes or the some other’s organization against a set of specific requirements.
+
+When can the improved process be used in the company project?
+In the next project.
+In the current project.
+In three months since the improvement.
+None of the answers above.
+
+Which artefact is not needed to control and manage the process?
+Process creation model.
+Process Reference Model.
+Assessment Model.
+Process Improvement Model
+
+Which describe the unique characteristics which should be met to satisfy a Process Area?
+Specific Goals.
+Specific Practice.
+Generic Goals.
+Generic Practice.
+
+In which step of the process assessment ISO 33000 the project is managed?
+Level 2.
+Level 5.
+Level 1.
+Level 3.
+
+What is a collection of used components to build models, training material, and evaluation material in área of interest of customers?
+Constellation CMMI.
+Levels of maturity.
+SCAMPI Phases.
+ISO 33000.
+
+Which of these is not a quality principle?
+To manage product quality, a planification must be made.
+To produce quality products, the developers must manage the quality of their work.
+The quality of a product is determined by the quality of the process used to develop it.
+If a customer does not demand a quality product, they will probably not get one.
+
+Which assertion about the CMMI framework is false?
+CMMI stands for Capability Maturity Model Implementation.
+It provides the required structure to generate the various CMMI models.
+It provides the required structure to generate the various the assessor training and the evaluation components.
+None of the options is false.
+
+What is a CMMI generic goal?
+A description of the characteristics required to institutionalize the processes that
+implement an specific process area.
+A description of the unique characteristics which should be met to satisfy a process
+area.
+The expected components from the a CMMI model that describe an activity
+considered as important to raise the specific goal.
+A description of an activity considered as important for the goal of an associated
+generic goal.
+
+What characteristic does a process have when it is in the Level 4: Predictable of the ISO 33000?
+It is executed under the preestablished limits.
+It is defined according to a standard model.
+It is implemented and achieves its goals.
+It is continuously being improved to meet the goals of the business.
+
+Which processes does the MMIS v2.0 model have at the maturity level 1?
+Implementation and project planification processes
+Implementation and evaluation processes
+Implementation and integration processes
+Implementation, evaluation and deployment processes
+
+What is it the difference between maturity and capability?
+A level of maturity is reached when each of the processes associated with the level of
+maturity reached a determined level of capacity.
+A level of maturity is reached when each of its processes has reached a level of
+capacity.
+A level of capability is reached when a determined number of processes have
+reached a level of maturity.
+It almost the same but for different processes.
+
+What is it the Process Reference Model?
+It provides with an schema with good practices for the various processes.
+It is a template of the software processes of a company.
+None of them.
+It establishes mechanisms to make processes will be more capable than they use to be.
+
+What are the levels of capacity in CMMI?
+Incomplete, performed, managed, defined, quantitatively managed and optimizing.
+Initial, managed, defined, quantitatively managed and optimizing.
+Incomplete, performed, managed, quantitatively managed and optimizing.
+Initial, managed, defined, defined and optimizing.
+
+What allows to an organization ISO 33000?
+Understand the current states of the own processes.
+New framework for process assessment.
+Enables the evaluation and certification of software development.
+All of them.
+
+In MMIS v2.0, what is it in the level 5 of maturity?
+Knowledge management process and business analysis process
+Business analysis process.
+None of them.
+Project set management process.

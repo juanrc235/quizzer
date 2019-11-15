@@ -1,0 +1,122 @@
+A04 --> UNIT 02.01
+
+Which of these is not a characteristic of Quality?
+Architecture centric.
+Multidimensional.
+Linked to commitments.
+Has some restrictions.
+
+Which action is taken to fix the root causes of a detected nonconformity?
+Corrective action.
+Conformance action.
+Preventive action.
+Quality plan.
+
+Which definition does not match with the concept of “quality”?
+Independent characteristics.
+Fitness for use.
+Meeting requirement and reliability on the working.
+Economic loss that a product poses to society from the time of issue.
+
+What is a quality characteristic?
+A criterion to judge the quality.
+A part of the Quality Management aimed at meeting the quality requirement.
+A result of meeting a requirement.
+A part of the Quality Management focused on the statement of the quality goal.
+
+A taken action on a product to transform a product into usable according to the intended use is a…
+Reparation.
+Correction.
+Prevention.
+Measure.
+
+Which steps are part of the continuous improvement cycle?
+Plan, Do, Check, Act.
+Plan, Do, Act, Produce.
+Do, Check, Act.
+Plan, Act, Produce, Check.
+
+The system must permit the registration of the action of each user is related with:
+Non-repudiation.
+Integrity.
+Confidentiality.
+Authenticity.
+
+Which is the part of the Quality Management aimed at ensuring trustworthiness upon the meeting of quality requirement?
+Quality assurance.
+Quality improvement.
+Quality control.
+Quality plan.
+
+Modularity is related with the concept of:
+Maintainability.
+Portability.
+Compatibility.
+Functional adequacy.
+
+What are the main concepts related to the reliability of a software product?
+Fault tolerance.
+Confidentiality.
+Interoperability.
+All of them are correct.
+
+The standard ISO 25010 is a division with the responsibility of:
+Quality models.
+Quality measures.
+Quality requirements.
+Quality assessments.
+
+What capability of a software product is related to the portability
+Adaptability.
+Confidentiality.
+Capability to be modified.
+Reusability.
+
+Which standard is related to quality management?
+ISO 25000.
+ISO 12207.
+ISO 14000.
+ISO 9000.
+
+14. Which of these is not a step in the quality assessment (ISO 25040)
+a) Test assessment.
+b) Conduct assessment.
+c) Specify assessment.
+d) End assessment.
+
+Which is the part of the Quality Management aimed at assuring that the product will meet quality requirements?
+Quality improvement.
+Quality assurance.
+Quality management system.
+Quality policy.
+
+What is the first step in the certification of quality software product
+Product quality evaluation request.
+Certification request.
+Evaluation report request.
+Quality evaluation report.
+
+What are we referring to when we talk about doing “good things”?
+Products.
+Processes.
+Models.
+None of the above.
+
+What is the concept of “Quality policy”?
+Global intentions and orientation of an organization relatives to the quality.
+Part of the Quality Management focused on the statement of the quality goals.
+Part of the Quality Management aimed at meeting the quality requirements.
+Management system to manage and control an organization with respect to quality.
+
+Which concept belongs to the usage capacity characteristic of the software product
+quality model?
+User interface aesthetics.
+Resource usage.
+Capability to be tested.
+Fault tolerance.
+
+What are we referring to when we talk about “doing well” things?
+Processes.
+Products.
+Conformance.
+None of the above.

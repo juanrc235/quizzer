@@ -1,0 +1,121 @@
+A04  --> UNIT 1.01
+
+What are we referring to when we talk about “a set of interrelated or interacting activities which transforms inputs into outputs”?
+Process.
+Methodology.
+System.
+Task.
+
+Which one of these is not a development methodology?
+Scrum.
+Structure.
+Object Oriented.
+Conventional.
+
+Which of these options are the correct order of a sequential Software Development?
+Requirements, Requirement Analysis, Design, Code/Hacking, Testing, Maintenance.
+Requirements, Requirement Analysis, Maintenance, Analysis, Code/Hacking, Design, Testing.
+Requirements, Analysis, Testing, Maintenance, Requirement Analysis, Code/Hacking, Design.
+Requirements, Analysis, Maintenance, Testing, Code/Hacking, Design, Requirement Analysis.
+
+Which one of these is a characteristic of the Cascade Model Life Cycle?
+A stage cannot begin until the previous one has not finished.
+It is harder to estimate the final cost of the overall project.
+It allows quick iterations, back steps, and quick ending.
+The system is being developed in small increments.
+
+Which one of these characteristics is not a desirable for a methodology?
+There aren´t predefined rules.
+Maintenance support.
+Total coverage of the development cycle.
+Effective Communications.
+
+Which of these statements is not correct to achieve best practices?
+A process can be split into one or several techniques.
+Following a procedure, one or more products will be generated.
+For supporting the application of each techniques, it must require one or more tools.
+An artefact is used as an input or generated as an output.
+
+Which is the main characteristic of the Spiral Model?
+Prototypes.
+It is not very flexible.
+You can´t go back when you have completed any objective.
+You don´t care about the risks.
+
+Which of these guidelines is not defined by a Development Methodology?
+The life cycle that will be followed.
+The steps which is going to be split.
+The restrictions which should be applied.
+The tools that should be used.
+
+What is the concept of "best practices"?
+Proven practices that have been shown to be effective in the experience.
+Reference frameworks containing the processes, activities and task involved in the development of software.
+The way in which users and Developers can be communicated.
+Set of interrelated or interacting activities which transforms inputs into outputs.
+
+Which of these Life Cycle is the most appropriate for an unexperienced software team?
+Cascade.
+Incremental.
+Spiral.
+Reused Oriented.
+
+Which is the result of following a procedure?
+One or more artefacts.
+The completion of a process.
+The developed software.
+One or more tools.
+
+A set of philosophies, stages, procedures, rules, techniques, tools, documentation, and training concern that are to be used by Information Systems Developers is...
+Development Methodology.
+Life Cycle.
+Process Model.
+Standard.
+
+The ISO 12207:2017 Process for Software Life Cycle doesn´t include:
+Deal Processes.
+Agreement Processes.
+Project Organization Processes.
+Technik Processes.
+
+Which of these methodologies is not object oriented?
+Merise.
+Metrica v3 OO.
+OMT.
+Unified Development Process.
+
+In which way can standards be helpful for an organization.
+They propose concepts and best practices that every organization should tailor to its own reality.
+They support the applications of techniques.
+They release valuable intermediate results to the end user.
+They give a global perspective of the way how things are done in the organization.
+
+What we must take in count in the spiral model?
+It take some risks because in the next iteration we can have a worst software development.
+There are many steps.
+To have the greatest number of prototypes in order to have the best version.
+It is very difficult.
+
+What defines the ISO standards?
+It implements all the specific task in order to do properly and to carry out the best practices.
+It defines the different methodologies and the life cycles we want to follow.
+It defines the way to do all the process in a technological company.
+It has the main goal of each step in a life cycle, in order to know if we can continue with the next phase.
+
+What are we talking about when we define “how we do things” in software development?
+Development methodology.
+Life Cycle.
+Requirement Analysis.
+Process Model.
+
+Which of these things is not a characteristic of a development methodology?
+It requires a large involvement of the end users.
+It can be understood as a set of methods.
+A procedure is the way in which users and Developers can get communicated.
+It indicates how to obtain the outputs.
+
+Which of these is not a characteristic of a Life Cycle?
+It indicates how we develop software.
+It indicates what is required to be obtained.
+It doesn´t indicate how we develop software.
+It establishes the processes involved in the commercial exploitation of the software.
