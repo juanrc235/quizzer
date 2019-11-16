@@ -1,7 +1,7 @@
 A04 --> UNIT 02.02
 
 Goals of Process Improvements are grounded on the following four principles:
-Define the process, Measure the process, Control the process,Improve the process.
+Define the process, Measure the process, Control the process, Improve the process.
 Define the process, Measure the process, Control the process, Maintain the process.
 Measure the process, Define the process, Establish the process, Improve the process.
 Measure the process, Manufacture the process, Establish the process, Improve the process.
@@ -29,7 +29,7 @@ Which is not a characteristic of ISO 33000?
 Assessment and improvement model of processes defined by AENOR for the Ibero American software industry.
 New framework for process assessment.
 Supersedes and extends ISO/IEC 15504.
-Determine de fitness of the own processes or the some other’s organization against a set of specific requirements.
+Determine de fitness of the own processes or the some other's organization against a set of specific requirements.
 
 When can the improved process be used in the company project?
 In the next project.
@@ -55,7 +55,7 @@ Level 5.
 Level 1.
 Level 3.
 
-What is a collection of used components to build models, training material, and evaluation material in área of interest of customers?
+What is a collection of used components to build models, training material, and evaluation material in ï¿½rea of interest of customers?
 Constellation CMMI.
 Levels of maturity.
 SCAMPI Phases.
@@ -96,12 +96,9 @@ Implementation and integration processes
 Implementation, evaluation and deployment processes
 
 What is it the difference between maturity and capability?
-A level of maturity is reached when each of the processes associated with the level of
-maturity reached a determined level of capacity.
-A level of maturity is reached when each of its processes has reached a level of
-capacity.
-A level of capability is reached when a determined number of processes have
-reached a level of maturity.
+A level of maturity is reached when each of the processes associated with the level of maturity reached a determined level of capacity.
+A level of maturity is reached when each of its processes has reached a level of capacity.
+A level of capability is reached when a determined number of processes have reached a level of maturity.
 It almost the same but for different processes.
 
 What is it the Process Reference Model?

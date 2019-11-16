@@ -1,6 +1,6 @@
-A01 --> UNIT 2.01
+A01 --> Unit 2.01
 
-In pareto’s law: __% of the features represent __% of the usage.Which are the percentages of usage?
+In pareto's law: __% of the features represent __% of the usage. Which are the percentages of usage?
 20,80
 30,70
 10,90
@@ -24,19 +24,19 @@ Support Weaknesses, Offensive against Threats
 Same Weekend, Over Too
 That term does not exist
 
-What are the characteristics a product need to have to fulfill the ISO 25010: quality model for software product?
+What are the characteristics a product need to have to fulfil the ISO 25010: quality model for software product?
 Functional adequacy, Reliability, Security, Compatibility, Portability, Maintainability, Performance efficiency, Usage capacity
 Functional adequacy, Reliability, Security, Compatibility, Portability, Malleability, Performance efficiency, Usage capacity
 Functional requirement, Reliability, Security, Compatibility, Portability, Maintainability, Performance efficiency, Usage capacity
 Functional adequacy, Security, Compatibility, Portability, Maintainability, Performance efficiency, Usage capacity
 
 What are the most characteristics of the concept of quality?
-Multi-dimensional,it is not absolute,has some restriction,linked to commitments and quality characteristics are not independent.
+Multi-dimensional, it is not absolute, has some restriction, linked to commitments and quality characteristics are not independent.
 The concept of quality can have characteristics because of it definition.
-Multi-dimensional,it is not absolute,has some restriction and linked to commitments .
+Multi-dimensional, it is not absolute, has some restriction and linked to commitments .
 Depend of the projects the other answers are all correct.
 
-Whats is one of the relation between cost and quality?
+What's is one of the relation between cost and quality?
 Less cost, more quality.
 More cost, more quality.
 Less cost, and less quality.
@@ -48,7 +48,7 @@ Quality policy.
 Quality Management system.
 Quality plan.
 
-which is the criterium to judge the quality?	
+which is the criterium to judge the quality?
 Quality characteristic.
 Quality plan.
 Quality policy.
@@ -58,7 +58,7 @@ in the quality management process, how is divided the continuous improvement cyc
 Plan, do, check, act.
 Plan, do, check.
 There is no cycle in quality.
-Plan, do, act, check,defect.
+Plan, do, act, check, defect.
 
 Which of this concepts are related to QUALITY?
 Defect
@@ -66,13 +66,13 @@ Cheap
 Expensive
 Difficult
 
-What is the correct definition of ‘Quality Characteristic’?
+What is the correct definition of "Quality Characteristic"?
 Criterium to judge the quality.
 Set of characteristics of a software product.
 Things that define a product.
 None of above.
 
-What defines ‘Functional Adequacy’?
+What defines "Functional Adequacy"?
 Functional Completeness, Functional Correctness and Functional Adequacy.
 Functional Completeness and Functional Correctness, only.
 Functional Completeness and Functional Adequacy, only.
@@ -86,8 +86,8 @@ Quality Improvement.
 
 Which are the first and last stages in the Quality Assessment?
 First: 1.- Establish assessment requirement, Last: 5.- End Assessment.
-First: 1.- Specify Assessment , Last: 5.- End Assessment.
-First: 1.- Specify Assessment , Last: 5.- Design Assessment.
+First: 1.- Specify Assessment, Last: 5.- End Assessment.
+First: 1.- Specify Assessment, Last: 5.- Design Assessment.
 First: 1.- Establish assessment requirement, Last: 5.- Design Assessment.
 
 What characteristics define Reliability in ISO 25010?
@@ -115,7 +115,7 @@ How many stages have the Certification of Quality Software Product?
 7.
 
 Which are the main characteristics of Performance Efficiency in ISO 25010?
-Temporal behavior and Resource Usage.
-Temporal Behavior.
+Temporal behaviour and Resource Usage.
+Temporal Behaviour.
 Resource Usage.
 None of above.

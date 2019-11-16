@@ -1,24 +1,24 @@
-A01 --> 1.01
+A01 --> Unit 1.01
 
 What is the main aim of our profession?
 Create reliable and cost effective software
 Gain money
 Create reliable software
 Create cost effective software
-	
+
 What is the best way to develop software?
 Following the schema requirements-design-coding-testing-working software
 You can develop software the way you want
 SCRUM is the best way
 Depending of the complexity of the software you can skip the requirements-design-coding-testing part
-	
+
 How should you work in a professional developing team
 Assigning functionalities of the program to each coder of the team and dividing them in packets
 Letting one code and others do the report and design
 Answer 1 and 2 are correct
 Coding the software all together at the same time so everyone understands the code
 
-	
+
 What is the life cycle of a software?
 It's a detailed plan describing how to develop, maintain and replace specific software
 It describes the time a software will be going to be used
@@ -30,7 +30,7 @@ Having as many running processes(Produce Software) as customers they have
 Focusing only on the demands of the client that pays more
 Looking for ideas to develop software and sell it
 All are wrong
-	
+
 Which one is not a Life cycle model
 CMMI
 Waterfall
@@ -39,16 +39,16 @@ Spiral model
 
 Which one is not a developing methodology
 All of them are
-Métrica v3
+Metrica v3
 UPD
 SCRUM
-	
+
 What is not true about the cascade model
 It's very flexible
 A stage cannot begin until the stage cannot begin until the previous one has not finished
 It is very useful in software migration projects from legacy environments
 Also called sequential
-	
+
 In what can be split a process
 Tasks
 Procedures
@@ -56,17 +56,17 @@ Products
 Projects
 
 What is a desirable characteristic for a methodology
-All of them 
+All of them
 Support to software reuse
 Easy training
 Total coverage of the development cycle
-	
+
 Which one of these methodologies is process oriented
 Gane y Sarson Methodology (STRDM/SSDM)
-Merise Methodology 
-SSADM Methodology 
-Métrica Methodology
-	
+Merise Methodology
+SSADM Methodology
+Mï¿½trica Methodology
+
 What is the false statement about Spiral model cycles
 It`s recommended for low risk projects
 It tries to improve the classic life cycle and prototypes
@@ -89,7 +89,7 @@ Which is the correct order
 A process can be split in tasks and for each task there is a procedure
 A process can be split in tasks and for each task there is multiple procedures
 A process contains multiple procedures, and for each procedure there is a task
-A task contains multiple processes, and for each process there is a procedure 
+A task contains multiple processes, and for each process there is a procedure
 
 Which is the reason prototyping is not the same as the spiral model?
 Prototyping implies developing a complete system to try new functionalities
@@ -102,7 +102,7 @@ A stage cannot begin until the stage cannot begin until the previous one has not
 If any stage have to be remake, you can return to the previous stage and remake that the problem resolve.
 The system is being developed in small increments .
 By the end of each completed cycle, risks are assessed before going into the next one.
-	
+
 Which is the reason the ISO,IEEE, etc were created?
 The need for standardization in order of facilitate the work
 Laziness

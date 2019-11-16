@@ -39,10 +39,10 @@ The first and the third answers are correct
 What is a release plan?
 A plan that describes what portions of system functionality will be implemented in which releases and the rationale for each release.
 Is a plan for relealising the developers of making more diagrams
-Is a plan for releasing the configuration managment plan
+Is a plan for releasing the configuration management plan
 Anyone of the answers
 
-What is not a release managment activity?
+What is not a release management activity?
 Delineate project requirements
 Define release policy
 Define release planning
@@ -90,8 +90,8 @@ Technical and organizational activities comprising configuration identification,
 An individual item to be controlled that is a constituent (part) of a larger configuration item, such as a reference model, hardware prototype or software build.
 Any person(s) or group designated to be responsible for assuring that CM activities are planned and carried out.
 
-What’s the differences between a build and a release?
-A release is a specific build labeled with a specific name and propourse.
-A build is a specific release labeled with a specific name and propourse.
+What's the differences between a build and a release?
+A release is a specific build labelled with a specific name and proposes.
+A build is a specific release labelled with a specific name and proposes.
 The target of every build is the final user.
 Nothing, they are the same.

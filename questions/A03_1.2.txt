@@ -7,10 +7,10 @@ When the product owner make it necessary
 Never, it is not possible
 
 In Scrum, what type of project is optimal, if the organization is rigid and it uses formal methods?
-An estable project type
+An stable project type
 A changing one
 An agile methodology project
-An agile and estable method
+An agile and stable method
 
 Why the Agile Methodologies are simply better?
 They are neither better nor worse than those based on PUD, they are simply more useful in different types of projects
@@ -84,11 +84,11 @@ How long will the project last?
 When will the project be completed?
 How much will the project cost?
 
-Which is a wrong statement related with user’s stories?
-It’s not a user’s need
-It’s not a task
-It’s not a requirements specification
-It’s not a use case
+Which is a wrong statement related with user's stories?
+It's not a user's need
+It's not a task
+It's not a requirements specification
+It's not a use case
 
 Which is the wrong statement about the inception phase?
 Errors will be fixed, and developers will work on fixing problems to incorporate the enhancements into the final version
@@ -102,7 +102,7 @@ Planning bus stop
 Planning black jack
 Texas Holdem Planning
 
-What promotes the “Planning Poker” technique?
+What promotes the "Planning Poker" technique?
 The participation of all attendees
 Gambling
 The absence of all attendees

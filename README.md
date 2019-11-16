@@ -1,5 +1,8 @@
 # quizzer
-A console-based program to practice with the ISO II questions. You can load any of the four files and start practicing. 
+A console-based program to practice with the ISO II questions. It will automatically load the files in the questions dir.
+You can also load and specific file with the `-f` option.
+
+Thanks to [Jaime León](https://github.com/jaimelr10) for adding all the questions files.
 
 To execute it (using preloaded files), in Linux:
 
@@ -13,7 +16,7 @@ And in Windows:
 py main.py
 ```
 
-To load a file:
+To load a file (only the file name):
 
 ```
 python3 main.py -f <file>
@@ -34,3 +37,4 @@ Discover functional requirements
 ..
 .
 ```
+First line of the file the unit, space and then the question itself.

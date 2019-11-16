@@ -1,18 +1,16 @@
 from question import Question
 import random
 import sys
+import os
 
-u = {'1.1' : 0, '1.2' : 1, '2.1' : 2, '2.2' : 3, '3.1' : 4}
-paths = ['questions/1.1.txt',
-         'questions/1.2.txt',
-         'questions/2.1.txt',
-         'questions/2.2.txt',
-         'questions/3.1.txt']
+def explore_dir():
+    print('Exploring DIR questions/')
+    return os.listdir('questions/')
 
 def usage():
   print('Usage: main.py: Use preload questions\n       main.py <-f> <file>: Use the questions of the file')
 
-def parse_argv(argv):
+def parse(argv):
 
     if len(argv) == 1:
         selection = 1
@@ -23,16 +21,18 @@ def parse_argv(argv):
 
     return selection
 
-
 def create_unit(path):
-    with open(path, 'r', encoding='utf-8') as fd:
-        content = fd.read()
+    with open('questions/'+path, 'r', encoding='utf-8') as fd:
+        try:
+            content = fd.read()
+        except UnicodeDecodeError:
+            print('Error parsing file: {}. Please remove all non UTF-8 characters'.format(path))
+            sys.exit(1)
 
     content = content.split('\n')
     content = [item for item in content if item != '']
 
     unit = content.pop(0)
-    print(unit)
     n = 5
     final = [content[i * n:(i + 1) * n] for i in range((len(content) + n - 1) // n )]
 
@@ -42,16 +42,17 @@ def create_unit(path):
         try:
             question_list.append( Question( i, item[0], item[1], (item[2], item[3], item[4])) )
         except Exception:
-            print('[ERROR] File: {} Question: {}'.format(path, i, item[0]))
+            print('[ERROR] File: {} Question: {}. Be sure all questions follow the format'.format(path, i, item[0]))
             sys,exit()
         i+=1
 
     random.shuffle(question_list)
-
+    print('File <{}> finish'.format(path))
     return (unit, question_list)
 
-def ask(unit, question_list):
-    print('\n| ================= {}  =================|'.format(unit))
+def ask(unit):
+    question_list = unit[1]
+    print('\n| ================= {}  =================|'.format(unit[0]))
     for question in question_list:
         try:
             question.ask()
@@ -62,37 +63,54 @@ def ask(unit, question_list):
         if question.your_answer is not None:
             print('{} / {}'.format(question.your_answer, question.question))
 
-def preload_questions():
+def valid(s, i):
+    valid = False
+    try:
+        value = int(s)
+        if value >= 0 and value <= i:
+            valid = True
+    except ValueError:
+        pass
+    return valid
+
+def preload_questions_option():
     units = []
+    paths = explore_dir()
     for path in paths:
         units.append(create_unit(path))
 
     print('\nWELCOME TO QUIZZER. YOUR PLACE IF YOU LOVE ISO\nPress [Ctrl + c] to exit\n')
 
-    str_units = [unit[0].split(' ')[1] for unit in units]
-    str = ', '.join(str_units)
     selection = ''
-    while selection not in str_units:
+    str = []
+    i = 0
+    for unit, question_list in units:
+        print('({}) {}'.format(i, unit))
+        i+=1
+    while not valid(selection, i):
         try:
-            selection = input('Select the Unit [' + str  + ']: ')
+            selection = input('Select the question set: ')
         except KeyboardInterrupt:
             print('\nBye, Bye')
             sys.exit(0)
 
-    ask(units[u[selection]][0], units[u[selection]][1])
+    ask(units[int(selection)])
 
-def load_file(path):
+def load_file_option(path):
+    if not os.path.isfile('questions/'+path):
+        print('Please, write only the file name. Not the path')
+        sys.exit()
     unit = create_unit(path)
-    ask(unit[0], unit[1])
+    ask(unit)
 
 def main(argv):
 
-    selection = parse_argv(argv)
+    selection = parse(argv)
 
     if selection == 1:
-        preload_questions()
+        preload_questions_option()
     elif selection == 2:
-        load_file(argv[2])
+        load_file_option(argv[2])
     else:
         usage()
 

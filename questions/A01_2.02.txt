@@ -1,4 +1,4 @@
-A01 --> UNIT 2.02
+A01 --> Unit 2.02
 
 How many Quality Principles are?
 6.
@@ -36,16 +36,17 @@ He or she will get one.
 The company will ask him or her
 The company will always deliver quality products
 
-Since a test removes only a fraction of a product’s defects,....
-to get a quality product out of a test you must put a quality product into the testto get a quality product you must perform various test on it
-the test is not a valid option for quality testing 
+Since a test removes only a fraction of a product's defects,....
+to get a quality product out of a test you must put a quality product into the test
+to get a quality product you must perform various test on it
+the test is not a valid option for quality testing
 to get a quality product tests must be performed for every module of the software
 
 Which one of the next definitions of capability is the most suitable for software engineering
 Aptitude, talent, quality that has someone for the proper exercise of something.
 Property of a thing to be able to contain some other inside.
 Opportunity, place or means to execute something.
-Volume. 
+Volume.
 
 Order the level of maturity from highest to lowest
 Optimized, Predictable, Established, Managed, Basic and Immature.
@@ -57,7 +58,7 @@ What tool is used to track the work of every Sprint
 Burn up graphics
 Sprint retrospective meetings
 Reviews
-None of them 
+None of them
 
 Which is the relationship  between the level of capacity and the level of maturity?
 In order to achieve a high level of maturity you need to achieve a high level of capacity on each of the processes associated
@@ -69,7 +70,7 @@ Which of the following does not indicate an adequate level of quality?
 The process presents lots of bugs
 The process produces the expected results
 The process is grounded on a sound definition
-The process can be improved according to the business goals 
+The process can be improved according to the business goals
 
 Which is the function of the Process Reference Model?
 It provides with an schema with good practices for the various processes
@@ -77,7 +78,7 @@ It allows to judge and decide on the capability of the process and the maturity 
 It establishes mechanisms to make processes will be more capable than they use to be.
 None of the above
 
-What is the standard “ISO 15504” useful for?
+What is the standard ISO 15504 useful for?
 The assessment model
 The Process reference model
 To get the specific goals
@@ -93,7 +94,7 @@ Which of the following does not belong to the level of maturity 2?
 Process of Management of Human Resources
 Process of Management of the Configuration
 Process of supply
-Process of definitions of necessities and requirements of the stakeholdersç
+Process of definitions of necessities and requirements of the stakeholders
 
 Which of the following level of maturity precedes the rest of them?
 Managed
@@ -114,7 +115,7 @@ Defined
 Optimizing
 
 In a meeting in SCRUM everyone should ask...
-3 questions: What did you do yesterday?, What will you do today?, Is everything running ok?
-2 questions :What will you do today?, Is everything running ok?
-4 questions: What did you do yesterday?, What will you do today?,What should be done by now, Is everything running ok?
-1 question: What will you do today?
+Three questions: What did you do yesterday?, What will you do today?, Is everything running ok?
+Two questions :What will you do today?, Is everything running ok?
+Four questions: What did you do yesterday?, What will you do today? What should be done by now, Is everything running ok?
+One question: What will you do today?

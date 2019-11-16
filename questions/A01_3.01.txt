@@ -1,10 +1,10 @@
-A01 --> UNIT 3.01 
+A01 --> Unit 3.01
 
 What does Version mean?
-Is an initial release or of a computer software configuration item,associated with a complete compilation of the computer software configuration item.
+Is an initial release or of a computer software configuration item, associated with a complete compilation of the computer software configuration item.
 Is the final release of a computer software configuration.
 Is an initial release of a computer hardware configuration item, associated with a complete compilation of the computer hardware configuration item.
-Is the final release of a computer hardware configuration. 
+Is the final release of a computer hardware configuration.
 
 What is configuration management authority?
 It is the person or team responsible for the configuration management.
@@ -17,7 +17,7 @@ Which is the purpose of Configuration Management Planning?
 The purpose of CM Planning is to produce and communicate effective and workable CM plans.
 The purpose of CM planning is organize teams to overlap its tasks.
 The purpose of CM planning is determine schemes to increase the productivity.
-The purpose of CM planning is increment the effectivity of the software product. 
+The purpose of CM planning is increment the effectivity of the software product.
 
 Which are the main activities of Configuration Management Processes?
  Manage implementation of CMP and Monitor CM activities, only.
@@ -45,7 +45,7 @@ A delivered version of an application that may include all or part of an applica
 
 what is configuration Item?
 Aggregation of work products that is designated for configuration management and treated as a single entity in the configuration management process.
-Technical and organizational activities comprising configuration identification, control, status accounting, and auditing. 
+Technical and organizational activities comprising configuration identification, control, status accounting, and auditing.
 Any person(s) or group designated to be responsible for assuring.
 That CM activities are planned and carried out.
 
@@ -57,7 +57,7 @@ An explicit and immutable version identifier (name or number) inserted into each
 
 what is a CMDB?
 A specific type of repository for CM information, usually a data store, used to record attributes of configuration items, and the relationships between configuration items, throughout their lifecycle.
-That CM activities are planned and carried out. 
+That CM activities are planned and carried out.
 An initial release or complete re-release of a document, as opposed to a revision resulting from issuing change pages to a previous release.
 None of above.
 
@@ -65,7 +65,7 @@ CM Plan should include  among others the following elements, either directly as 
 Introduction,  Criteria for the identification of the configuration elements under the CM Plan,  Project management,  Responsibilities of the CM.
 Introduction,  Criteria for the identification of the configuration elements under the CM Plan,  Project management,  Responsibilities of the CM, Ending document.
 Introduction,  Criteria for the identification of the configuration elements under the CM Plan,  Portfolio management,  Responsibilities of the CM.
-Introduction,  Criteria for the identification of the configuration elements under the CM Plan,Constraints and assumptions affecting the plan,  Portfolio management,  Responsibilities of the CM.
+Introduction,  Criteria for the identification of the configuration elements under the CM Plan, Constraints and assumptions affecting the plan,  Portfolio management,  Responsibilities of the CM.
 
 Which is the first CM process that should be carried out first
 Planning
@@ -77,12 +77,12 @@ What is the Release Plan
 A plan that describes what portions of system functionality will be implemented in which releases and the rationale for each release.
 The working version of the software
 A plan describing the life cycle of the software from the design to the release of the full version
-It’s the estimation of the cost and date until the software is released
+Its the estimation of the cost and date until the software is released
 
 What is the motivation for Software Configuration Management
 All of them
 Software is always changing
-Versión control 
+Version control
 Driving the integration of software parts into a single software product.
 
 What does the acronym CM means
@@ -106,7 +106,7 @@ Report on status of CIs
 What is the Release Management Process purpose?
 The purpose of the release management lower-level process is to assure that the proper set of deliverables (including documentation and ancillary materials) is delivered to the designated receiving party in the designated form to the designated location.
 The purpose of the release management higher-level process is to assure that the proper set of deliverables (including documentation and ancillary materials) is delivered to the designated receiving party in the designated form to the designated location.
-The purpose of release management is to objectively assess the integrity of the product both from a functional perspective (how the different technical processes of product development—from requirements to testing—were performed) and from a physical perspective (how the as-is product was built and changes were applied).
+The purpose of release management is to objectively assess the integrity of the product both from a functional perspective (how the different technical processes of product developmentfrom requirements to testingwere performed) and from a physical perspective (how the as-is product was built and changes were applied).
 The purpose of release management is to maintain the integrity of the product in all of its states, from requirements to a validated working product, as changes to it are needed both under development and post-release.
 
 Which of the following elements of the CM plan should be done earlier?

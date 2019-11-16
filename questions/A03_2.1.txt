@@ -1,10 +1,10 @@
 A03 --> Unit 2.1
 
 Which is not a characteristic of quality?
-It’s absolute
+It's absolute
 It has some restrictions
-It’s linked to commitments
-It’s multidimensional
+It's linked to commitments
+It's multidimensional
 
 Which of the parts in the semantic versioning is related with quality assurance?
 Patch
@@ -13,16 +13,16 @@ Minor
 Absolute version
 
 Which is the slogan of quality?
-“Do well good things”
-”Do things as fast as you can”
-”Do all the things”
-”Do only complex things”
+"Do well good things"
+"Do things as fast as you can"
+"Do all the things"
+"Do only complex things"
 
 What of the following assertions about quality is false?
-A person can only have only role when talking about “quality”
+A person can only have only role when talking about "quality"
 Every quality characteristic should have a value and a measurement unit
 For every quality characteristic, a range of acceptable values should be provided
-“Fitness for use” is an expression that matches with quality
+"Fitness for use" is an expression that matches with quality
 
 What is quality control?
 A part of the Quality Management aimed at meeting the quality requirement.
@@ -52,7 +52,7 @@ What is niche market?
 A niche in the market is a specific area of marketing which has its own particular requirements, customers, and products.
 Is a philosopher
 Niche marketing is the practice of joining the market into general areas for which general products are made. A niche market is one of these general area
-It doesn’t exist
+It doesn't exist
 
 Is quality the same for different people?
 All answers are correct
@@ -90,19 +90,19 @@ ISO 25010
 AQC Labs
 ISO 330000
 
-In the sentence “Do well good things”, what do you do “well”?
+In the sentence ï¿½Do well good thingsï¿½, what do you do ï¿½wellï¿½?
 Processes
 Products
 Software
 None of the others
 
 Which of the following sentences is NOT a definition of quality?
-As quality is subjective, we cannnot give any possible definition of quality
+As quality is subjective, we cannot give any possible definition of quality
 Fitness for use
 Zero defects
 Extent to which a set of inherent characteristics meet requirement
 
-In the sentence “Do well good things”, what is referred to “things”?
+In the sentence "Do well good things", what is referred to "things"?
 Products
 Processes
 Products and processes
@@ -116,6 +116,6 @@ All of them are correct
 
 If we want to have a reference model of quality in our company, what we have to do?
 Looking for the family of quality models of ISO 2500n
-As the quality is subjective we don’t have to do anything
+As the quality is subjective we don't have to do anything
 Doing only testing
 Having not restrictions

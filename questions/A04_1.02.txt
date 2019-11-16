@@ -1,4 +1,4 @@
-A04  ----> UNIT 1.02
+A04  --> UNIT 1.02
 
 Which of these is not a characteristic of the Unified Development Process?
 Agile methodology.
@@ -19,10 +19,10 @@ LSD.
 OpenUP.
 
 We say that UDP is paramount to know what users needs to develop Software Systems that best fit to their needs because:
-It’s use case driven.
+It's use case driven.
 We need to take risks.
-It’s architecture centric.
-It’s collaborative.
+It's architecture centric.
+It's collaborative.
 
 Which is one of the characteristics of a User Stories?
 Value.
@@ -48,15 +48,14 @@ Product Owner.
 Scrum Master.
 Team Work.
 
-When we talk about a list of User Stories that will be incorporated in the software product,
-we talk about…
+When we talk about a list of User Stories that will be incorporated in the software product, we talk about:
 Product Backlog.
 Scrum.
 Unified Development Process.
 Sprint.
 
 When things are coming out according to an initial planning that is taken as an indication, but never as a guide, we say we are working in a:
-Adaptative way.
+Adaptive way.
 Predictable way.
 Changing way.
 Adaptable way.
@@ -73,7 +72,7 @@ Optimized agile methods.
 Formal methods.
 Iterative-Formals.
 
-In the final step of “Planning Poker”, if we don't have any final result in a consensus way, we have to…
+In the final step of ï¿½Planning Pokerï¿½, if we don't have any final result in a consensus way, we have to:
 The people will vote again.
 All the results are in consensus whatever the value of the result.
 The Scrum Master will be involved in the planning.
@@ -127,7 +126,7 @@ Represents the project management.
 Facilitates the acquisition of the projects.
 All answers are correct.
 
-What is the role of the ScrumMaster?
+What is the role of the Scrum Master?
 All answers are correct.
 Maintains and assures the Scrum values and practices.
 Makes the team keeps totally functional and productive.
@@ -139,8 +138,7 @@ Sprint Review Meetings.
 Sprint Retrospective Meetings.
 Sprint Planning Meetings.
 
-It covers the time slot in which the final product becomes into the beta version, we talk
-about…
+It covers the time slot in which the final product becomes into the beta version, we talk about:
 Transition Phase.
 Construction Phase.
 Elaboration Phase.
@@ -156,9 +154,9 @@ Which of these does not participate in Sprint Retrospective Meetings?
 Final user.
 Product Owner.
 Team.
-ScrumMaster.
+Scrum Master.
 
-The nomenclature of the version when a product is developed is…
+The nomenclature of the version when a product is developed is:
 Mayor, Minor, Dispatch.
 Minor, Mayor, Dispatch.
 Dispatch, Mayor, Minor.

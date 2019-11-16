@@ -12,7 +12,7 @@ Conformance action.
 Preventive action.
 Quality plan.
 
-Which definition does not match with the concept of “quality”?
+Which definition does not match with the concept of ï¿½qualityï¿½?
 Independent characteristics.
 Fitness for use.
 Meeting requirement and reliability on the working.
@@ -24,7 +24,7 @@ A part of the Quality Management aimed at meeting the quality requirement.
 A result of meeting a requirement.
 A part of the Quality Management focused on the statement of the quality goal.
 
-A taken action on a product to transform a product into usable according to the intended use is a…
+A taken action on a product to transform a product into usable according to the intended use is a:
 Reparation.
 Correction.
 Prevention.
@@ -96,26 +96,25 @@ Certification request.
 Evaluation report request.
 Quality evaluation report.
 
-What are we referring to when we talk about doing “good things”?
+What are we referring to when we talk about doing "good things"?
 Products.
 Processes.
 Models.
 None of the above.
 
-What is the concept of “Quality policy”?
+What is the concept of "Quality policy"?
 Global intentions and orientation of an organization relatives to the quality.
 Part of the Quality Management focused on the statement of the quality goals.
 Part of the Quality Management aimed at meeting the quality requirements.
 Management system to manage and control an organization with respect to quality.
 
-Which concept belongs to the usage capacity characteristic of the software product
-quality model?
+Which concept belongs to the usage capacity characteristic of the software product quality model?
 User interface aesthetics.
 Resource usage.
 Capability to be tested.
 Fault tolerance.
 
-What are we referring to when we talk about “doing well” things?
+What are we referring to when we talk about "doing well" things?
 Processes.
 Products.
 Conformance.

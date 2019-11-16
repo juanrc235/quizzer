@@ -1,6 +1,6 @@
 A03 --> Unit 2.2
 
-What does the word “maturity” mean (in the ISO subject context)?
+What does the word "maturity" mean (in the ISO subject context)?
 Doing things better and better
 Doing well good things
 Doing old things
@@ -8,7 +8,7 @@ Doing things as adults do
 
 Mark the true statement.
 To reach a level of maturity you have to reach the level of capacity of each of the processes associated with the level of maturity
-To reach a  a level of maturity it’s enough to reach the level of capacity of only one process associated with the level of maturity
+To reach a  a level of maturity it's enough to reach the level of capacity of only one process associated with the level of maturity
 There are no restrictions to reach a level of maturity in a company
 The level of maturity is not related with the organization of the company
 
@@ -91,8 +91,8 @@ Understand the future state of the own processes
 None is correct
 
 What the ISO 33000 allows?
-Determine de fitness of the own processes or the some other’s organization against a set of specific requirements
-Determine de fitness of the some other’s organization  processes against a set of specific requirements
+Determine de fitness of the own processes or the some other's organization against a set of specific requirements
+Determine de fitness of the some other's organization  processes against a set of specific requirements
 None is correct
 Determine de fitness of the own processes
 
@@ -106,7 +106,7 @@ What means if a company have a maturity level of 2?
 It means that every process has a level of capability of 2 or more
 It means that every of their workers have been hired for more than 2 years
 The levels of maturity are measure by letters (A, B, C...) not numbers
-It doesn’t mean anything
+It doesn't mean anything
 
 To achieve adequate levels of quality it is necessary that...
 All of them are correct

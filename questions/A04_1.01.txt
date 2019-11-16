@@ -1,6 +1,6 @@
 A04  --> UNIT 1.01
 
-What are we referring to when we talk about “a set of interrelated or interacting activities which transforms inputs into outputs”?
+What are we referring to when we talk about ï¿½a set of interrelated or interacting activities which transforms inputs into outputsï¿½?
 Process.
 Methodology.
 System.
@@ -25,7 +25,7 @@ It allows quick iterations, back steps, and quick ending.
 The system is being developed in small increments.
 
 Which one of these characteristics is not a desirable for a methodology?
-There aren´t predefined rules.
+There aren't predefined rules.
 Maintenance support.
 Total coverage of the development cycle.
 Effective Communications.
@@ -39,8 +39,8 @@ An artefact is used as an input or generated as an output.
 Which is the main characteristic of the Spiral Model?
 Prototypes.
 It is not very flexible.
-You can´t go back when you have completed any objective.
-You don´t care about the risks.
+You can't go back when you have completed any objective.
+You don't care about the risks.
 
 Which of these guidelines is not defined by a Development Methodology?
 The life cycle that will be followed.
@@ -72,7 +72,7 @@ Life Cycle.
 Process Model.
 Standard.
 
-The ISO 12207:2017 Process for Software Life Cycle doesn´t include:
+The ISO 12207:2017 Process for Software Life Cycle doesnï¿½t include:
 Deal Processes.
 Agreement Processes.
 Project Organization Processes.
@@ -102,7 +102,7 @@ It defines the different methodologies and the life cycles we want to follow.
 It defines the way to do all the process in a technological company.
 It has the main goal of each step in a life cycle, in order to know if we can continue with the next phase.
 
-What are we talking about when we define “how we do things” in software development?
+What are we talking about when we define ï¿½how we do thingsï¿½ in software development?
 Development methodology.
 Life Cycle.
 Requirement Analysis.
@@ -117,5 +117,5 @@ It indicates how to obtain the outputs.
 Which of these is not a characteristic of a Life Cycle?
 It indicates how we develop software.
 It indicates what is required to be obtained.
-It doesn´t indicate how we develop software.
+It doesn't indicate how we develop software.
 It establishes the processes involved in the commercial exploitation of the software.
