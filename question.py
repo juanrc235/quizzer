@@ -22,7 +22,7 @@ class Question:
             pos_answers.append(i)
         random.shuffle(pos_answers)
         i = 1
-        txt = '\n' + self.question + '\n'
+        txt = self.question + '\n'
         for ans in pos_answers:
             txt += '({}) {}\n'.format(i, ans)
             i += 1

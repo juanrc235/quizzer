@@ -52,16 +52,26 @@ def create_unit(path):
 
 def ask(unit):
     question_list = unit[1]
+    i = 1
+    total = len(question_list)
     print('\n| ================= {}  =================|'.format(unit[0]))
     for question in question_list:
         try:
+            print('\n[{}/{}] '.format(i, total), end='')
             question.ask()
+            i+=1
         except KeyboardInterrupt:
             break
     print('\n| ================= RESULTS =================| ')
+
+    correct = 0
     for question in question_list:
         if question.your_answer is not None:
             print('{} / {}'.format(question.your_answer, question.question))
+            if question.your_answer is 'CORRECT':
+                correct+=1
+    print('##### CORRECT: {} INCORRECT: {} #####'.format(correct, total-correct))
+
 
 def valid(s, i):
     valid = False
