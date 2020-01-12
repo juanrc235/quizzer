@@ -1,0 +1,122 @@
+A03 --> UNIT 4
+
+1. Which is the goal of testing management?
+* Find failures before releasing to production.
+* Generate possible states for the program.
+* Read the code looking for bugs.
+* Give work to the developers.
+
+2. The pairwise coverage criteria says that... 
+* Test cases must ‘visit’, at least once, every pair of values of two any parameter.
+* Every interesting value must be used at least in one test case.
+* It’s a generalization of pairwise. Test cases must ‘visit’ all tuples of n elements of any n parameters.
+* None of above.
+
+3. Which is not an advantage of mutation testing? 
+* A huge number of mutants
+* It figures out ambiguities in the source code under testing
+* It allows improving a test suite in an iterative process
+* It can be used as an indicator of how good or bad is a test suite
+
+4. Test-driven development favors… 
+* Low dependency coupling
+* Low cohesion
+* High dependency coupling
+* UDP
+
+5. Who normally perceive a defect or bug? 
+* The tester.
+* The software engineer.
+* The final user.
+* All of them are correct.
+
+6. What’s the relationship between a test case and a test suite?
+* A test suite is composed by one or more test cases.
+* A test case is composed by one or more test cases.
+* A test suite is the same that a test case.
+* They are not related.
+
+7. What’s the difference between black box or white box testing?
+* In the white box we know exactly the internal mechanism of what we are testing, while in the black box not.
+* Black box or white box is the same, is only a preference of naming.
+* In the black box, inputs are not needed.
+* White box is known as functional tests.
+
+
+8. What’s means the MINIMAX function?
+* Minimum time invest of testing and maximum test effectiveness.
+* It’s a computer game technique.
+* It means covering the largest amount of tests cases as we can.
+* All of them are false.
+
+9. What is Acceptance-Behaviour-driven development (ABDD) based on?
+* Behaviour-driven development (BDD)
+* Databases development (DBD)
+* Test-driven development (TDD)
+* Error-driven development (EDD)
+
+10. What is an oracle in the context of testing?
+* An agent (human or machine) that makes decisions if a program behaves adequately for a given data set
+* A very important company
+* A mistake made by a person
+* A deviation regarding the expected, required behavior of the system
+
+11. Which of the following statements is true?
+* White box tests are usually done if the black box one fails.
+* In the black box tests all the structure is known
+* In the white box tests only the input and the output is what matters
+* White box tests are usually done before the black box ones
+
+12. One rule to optimize the cost of the testing tasks in a project is to use as fewer values as possible which…  (Answer the wrong ending of the sentence)
+* Are estimated to return true during the evaluation of the assertion condition.
+* Can detect the highest number of failures
+* Even not detected, it can be assumed further defects won’t appear by using other values.
+* Maximize coverage
+
+13. What Test driven development (TDD) consists of?
+* Writing first tests and then codify to fulfill those tests
+* Writing tests at the last moment
+* Writing first the code and then the tests
+* This type of development doesn’t exist
+
+14. What is error-guessing in the context of testing management?
+* Intuitively, testing engineer proposes concrete values she/he intuits the system can work inappropriately
+* Is about guessing who is the worst engineer in the group
+* Is about guessing what is the engineer who have written the errors
+* This concept doesn’t exist
+
+15. What is the purpose of AETG?
+* Generates, in polynomial time, a set of test cases of acceptable size that get pairwise coverage
+* Is an AQC Lab testing type
+* Is about writing the most complex tests to brute-force what you are trying to test and make the system safer
+* Is the acronym of Automatic Efficient Test Gender
+
+16. Mark the wrong assertion about mutation testing
+* Compare inputs
+* Is Software testing with the existing test suite 
+* Generation of copies of the original software with small mutations 
+* Validate every mutation plus the original software with the same, previous test suite
+
+17.  What is a defect or a bug?
+* An error doing any activity concerning software.
+* A mistake made by a person.
+* A deviation regarding the expected, required behavior of the system.
+* The more number of defects or bugs, the best.
+
+18 Which are the two fold-goals of mutation testing?
+* To design new test suites and evaluate quality of the existing test suites.
+* To design new test suites and execute them.
+* To evaluate quality of existing test suites and improve it.
+* To generate tests and mutations.
+
+19. How the set of combinations are generated when using the combination strategy for test cases?
+* Computing the Cartesian product of the test values
+* Computing the summation of the test values
+* Computing the division product of the test values
+* Testing only the first three random combinations of the test values
+
+20. Select the false statement about Test Driven Development (TDD):
+* They are not used in agile methodologies
+* Drives the design and creation of software starting from the tests, what favors low dependency coupling.  
+* In TDD tests can be executed at any time to check the current status of the system.  
+* It ensures the new code added doesn’t break any part of the system.

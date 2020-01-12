@@ -1,0 +1,108 @@
+﻿A03 --> UNIT 5
+
+Which is the goal of maintenance management?
+* Sustain the capability of the system to provide a service.
+* Find failures before releasing to production.
+* Solve only the most severe bugs.
+* Modify the software.
+
+How many types of maintenance are there?
+* Four.
+* Infinite, each company does it own one.
+* Only one.
+* Three.
+
+What are the four types of Maintenance?
+* Perfective, corrective, preventive and adaptive.
+* Analogy, corrective, digital.
+* Old systems one, new systems one.
+* User, company and shopping ones.
+
+About the corrective maintenance, the goal is?
+* locate and remove defects that potentially may cause failures.
+* adapt to environment changes.
+* improve or add new functionality because of changes in the requirements of a software system.
+* to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
+
+About the adaptive maintenance, the goal is?
+* adapt to environment changes.
+* locate and remove defects that potentially may cause failures.
+* improve or add new functionality because of changes in the requirements of a software system.
+* to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
+
+About the perfective maintenance, the goal is?
+* improve or add new functionality because of changes in the requirements of a software system.
+* to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
+* adapt to environment changes.
+* locate and remove defects that potentially may cause failures.
+ 
+About the preventive maintenance, the goal is?
+* to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
+* adapt to environment changes.
+* locate and remove defects that potentially may cause failures.
+* improve or add new functionality because of changes in the requirements of a software system.
+
+Which is the mayor cause of defects leading to corrective maintenance?
+* Design/specification fail.
+* Logic.
+* Error checking.
+* User interface.
+
+Which are the two subtypes of perfective maintenance?
+* Extension Maintenance and performance maintenance.
+* Quality maintenance two times.
+* Performance maintenance and quality.
+* Performance and magnitude maintenance.
+
+In the adaptative maintenace, the changes can affect to?
+* O.S, infrastructure architecture and development environment.
+* Only to the operating system.
+* The architecture.
+* O.S and the used architecture. 
+
+Which is the most expensive maintenance type?
+* Perfective
+* Corrective.
+* Preventive.
+* Adaptive.
+
+which maintenance activity needs more effort?
+* Implementation.
+* Testing.
+* Design.
+* Analysis.
+
+What is the legacy code?
+* Code developed some time ago.
+* Outer Space Code.
+* Code the need to be developed.
+* Useless code.
+
+What is software reengineering?
+* Software reengineering makes it possible to carry out the evolutionary maintenance of legacy information systems by assuming risks and save costs.
+* Reinvent the wheel.
+* The same as reverse engineering.
+* None is correct.
+
+What increases the maintainability dramatically?
+* Write clean code.
+* The money.
+* A good working team.
+* Write legacy code.
+
+What are the maintenance cost within a project?
+* Around a 70%.
+* 5%.
+* 99%.
+* The cost of the maintenance is not dependent of the cost of the project.
+
+Which is most important resource for maintenance?
+* The human one.
+* The money.
+* Knowing COBOL.
+* The computers.
+
+Pregunta random porque si no, no va
+La respuesta es esta
+Esta no es
+Esta tampoco
