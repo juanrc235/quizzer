@@ -1,8 +1,8 @@
 # quizzer
 A console-based program to practice with the ISO II questions. It will automatically load the files in the questions dir.
-You can also load and specific file with the `-f` option.
+You can also load a specific file with the `-f` option.
 
-Thanks to [Jaime León](https://github.com/jaimelr10) for adding all the questions files.
+Thanks to [Jaime León](https://github.com/jaimelr10) for adding all the questions files. I would like also to thanks [Enrique Cepeda](https://github.com/Equecevi) its contribution adding the questions of the last two units <3. 
 
 To execute it (using preloaded files), in Linux:
 
