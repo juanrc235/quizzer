@@ -35,7 +35,7 @@ About the perfective maintenance, the goal is?
 * to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
 * adapt to environment changes.
 * locate and remove defects that potentially may cause failures.
- 
+
 About the preventive maintenance, the goal is?
 * to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
 * adapt to environment changes.
@@ -58,7 +58,7 @@ In the adaptative maintenace, the changes can affect to?
 * O.S, infrastructure architecture and development environment.
 * Only to the operating system.
 * The architecture.
-* O.S and the used architecture. 
+* O.S and the used architecture.
 
 Which is the most expensive maintenance type?
 * Perfective
@@ -101,8 +101,3 @@ Which is most important resource for maintenance?
 * The money.
 * Knowing COBOL.
 * The computers.
-
-Pregunta random porque si no, no va
-La respuesta es esta
-Esta no es
-Esta tampoco
